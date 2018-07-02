@@ -33,7 +33,7 @@ class SongsController < ApplicationController
       render :edit
     end
   end
-  
+
   private
 
   def set_song
